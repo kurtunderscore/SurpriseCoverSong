@@ -1,2 +1,3 @@
 # SurpriseCoverSong
-Another song that I will be performing live on May 17, 2019The following song is being coded using Music Macro Language (MML)
+Another cover song written in Music Macro Language (MML) that 
+I'll be performing live on May 17, 2019 at Berlin Bar New York, NY 10009
